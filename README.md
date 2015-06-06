@@ -1,7 +1,9 @@
 ## Getting started
 
 `sudo bundler install`
+
 `make`
+
 `bundler exec rake preview`
 
 
