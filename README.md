@@ -1,4 +1,11 @@
-# The Day We Fight Back needs your help
+## Getting started
+
+`sudo bundler install`
+`make`
+`bundler exec rake preview`
+
+
+## The Day We Fight Back needs your help
 
 [Thedaywefightback.org](https://thedaywefightback.org) is the central hub website for an online protest against mass surveillance on February 11th, 2014. The site was built by [Taskforce.is](http://taskforce.is), a group of volunteers who build activism tools for online advocacy.
 
